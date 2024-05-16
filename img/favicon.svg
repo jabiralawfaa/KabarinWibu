@@ -5,7 +5,7 @@
 viewBox="0 0 769 570"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="603" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+  <font id="FontID0" horiz-adv-x="603" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
 	<font-face 
 		font-family="Madimi One">
 	</font-face>
@@ -24,7 +24,7 @@ viewBox="0 0 769 570"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_409245312">
+  <g id="_401617744">
    <text x="-40" y="494"  class="fil0 fnt0">K</text>
    <path class="fil1" d="M233 52c-23,13 -32,49 -27,98 4,54 26,122 64,189l0 0c38,67 84,120 128,153 40,28 76,39 99,26 23,-13 32,-49 28,-98 -5,-55 -27,-122 -65,-189l0 -1c-38,-66 -84,-119 -128,-152 -39,-28 -75,-39 -99,-26zm-74 102c-6,-67 11,-120 52,-143 40,-23 94,-10 148,30 49,36 100,95 142,167l3 6 0 0c39,71 62,143 67,202 6,67 -11,120 -51,143 -41,23 -95,10 -149,-30 -49,-36 -100,-95 -141,-168l-4 -5 0 0c-39,-71 -62,-143 -67,-202z"/>
    <text x="289" y="494"  class="fil0 fnt0">W</text>
